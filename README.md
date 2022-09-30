@@ -1,0 +1,1 @@
+O objetivo desse exercício é aplicar os conceitos e o algoritmo _meanshit_ em dois exemplos, um com valores criados e outro com valores reais.
